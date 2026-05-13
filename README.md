@@ -31,10 +31,10 @@ Each model was independently developed and optimized to compare:
 6. Interpretability
 7. Generalization capability
 
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
+Technologies Used: 
+Python,
+Pandas,
+NumPy,
+Scikit-learn,
+Matplotlib,
 Seaborn
